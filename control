@@ -1,0 +1,9 @@
+Package: com.ion.infinitum
+Name: Infinum
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An infinite scroll folder/app page tweak!
+Maintainer: _justincarlson
+Author: _justincarlson
+Section: Tweaks
